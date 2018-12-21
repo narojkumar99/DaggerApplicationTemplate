@@ -3,7 +3,7 @@ This is clean template which uses Dagger 2 for dependency injection. and uses ot
 
 #We can inject
 * SQLlite Database Helper Class
-* Retrofit Api Interface with RxJava Callbacks
+* Retrofit Api Interface with RxJava Callback
 * Retrofit and OKHttp Instances
 * SharedPreferences
 * Gson
